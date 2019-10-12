@@ -1,6 +1,7 @@
 body{
     background-color: aqua;
     font-family: 'Times New Roman' ;
+    background-image: url(./assets/img/bg.jpg);
 }
 #contact{
     background-color: black;
